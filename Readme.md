@@ -1,3 +1,3 @@
 # Demo file
 
-Read me first
+Read me first.
